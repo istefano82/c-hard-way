@@ -1,0 +1,7 @@
+#include <stdio>
+int main()
+{
+    puts("Hello worlds.");
+    
+    return 0;
+}
